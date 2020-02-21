@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Jedi - Python autocompletion",
 		"MagicPython"
 	]
 }
