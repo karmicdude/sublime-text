@@ -6,6 +6,14 @@
 	"installed_packages":
 	[
 		"Jedi - Python autocompletion",
-		"MagicPython"
+		"MagicPython",
+		"Package Control",
+		"sublack",
+		"SublimeLinter",
+		"SublimeLinter-bandit",
+		"SublimeLinter-contrib-mypy",
+		"SublimeLinter-flake8",
+		"SublimeLinter-json",
+		"SublimeLinter-shellcheck"
 	]
 }
