@@ -3,3 +3,4 @@
 !/README.md
 /User/Package Control.*
 !/User/Package Control.sublime-settings
+!/example.sublime-project
