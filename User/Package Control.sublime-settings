@@ -1,19 +1,20 @@
 {
-	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
-	"installed_packages":
-	[
-		"Jedi - Python autocompletion",
-		"MagicPython",
-		"Package Control",
-		"sublack",
-		"SublimeLinter",
-		"SublimeLinter-bandit",
-		"SublimeLinter-contrib-mypy",
-		"SublimeLinter-flake8",
-		"SublimeLinter-json",
-		"SublimeLinter-shellcheck"
-	]
+    "bootstrapped": true,
+    "in_process_packages":
+    [
+    ],
+    "installed_packages":
+    [
+        "Jedi - Python autocompletion",
+        "MagicPython",
+        "Package Control",
+        "sublack",
+        "SublimeLinter",
+        "SublimeLinter-bandit",
+        "SublimeLinter-contrib-mypy",
+        "SublimeLinter-flake8",
+        "SublimeLinter-json",
+        "SublimeLinter-shellcheck",
+        "Boxy Theme"
+    ]
 }
