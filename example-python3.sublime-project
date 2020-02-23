@@ -13,8 +13,9 @@
 		],
 	"sublack.black_command": "$project_path/.venv/bin/black",
 	"SublimeLinter.linters.mypy.executable": "$project_path/.venv/bin/mypy",
+	"SublimeLinter.linters.mypy.args": [
+		"--ignore-missing-imports"],
 	"SublimeLinter.linters.flake8.executable": "$project_path/.venv/bin/flake8",
 	"SublimeLinter.linters.bandit.executable": "$project_path/.venv/bin/bandit",
-	"SublimeLinter-addon-black-for-flake.enable": true,
 	}
 }
