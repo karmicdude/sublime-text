@@ -5,16 +5,18 @@
 	],
 	"installed_packages":
 	[
+		"Boxy Theme",
+		"gruvbox",
 		"Jedi - Python autocompletion",
 		"MagicPython",
 		"Package Control",
 		"sublack",
 		"SublimeLinter",
 		"SublimeLinter-bandit",
+		"SublimeLinter-contrib-markdownlint",
 		"SublimeLinter-contrib-mypy",
 		"SublimeLinter-flake8",
 		"SublimeLinter-json",
-		"SublimeLinter-shellcheck",
-		"Boxy Theme"
+		"SublimeLinter-shellcheck"
 	]
 }
