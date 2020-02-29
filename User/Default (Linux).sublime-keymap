@@ -1,0 +1,13 @@
+[
+    { "keys": ["ctrl+,", "p"], "command": "open_file", "args": {"file": "${packages}/User/Preferences.sublime-settings"} },
+    { "keys": ["ctrl+,", "k"], "command": "open_file", "args": {"file": "${packages}/User/Default (Linux).sublime-keymap"} },
+    // VIM navigation
+    { "keys": ["j", "j"], "command": "exit_insert_mode", "context": [ { "key": "setting.command_mode", "operand": false }, { "key": "setting.is_widget", "operand": false } ] },
+    { "keys": ["j", "f"], "command": "exit_insert_mode", "context": [ { "key": "setting.command_mode", "operand": false }, { "key": "setting.is_widget", "operand": false } ] },
+    { "keys": ["alt+shift+up"], "command": "select_lines", "args": {"forward": false} },
+    { "keys": ["alt+shift+down"], "command": "select_lines", "args": {"forward": true} },
+    // Jedi
+    { "keys": [",", ",", "d"], "command": "sublime_jedi_goto" },
+    // ColorPicker
+    { "keys": [",", "c", "c"], "command": "color_pick" },
+]
