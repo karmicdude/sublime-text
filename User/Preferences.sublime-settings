@@ -44,9 +44,11 @@
 	"folder_exclude_patterns":
 	[
 		".git",
-		".venv"
+		".venv",
+		"__pycache__",
+		"node_modules"
 	],
-	"font_face": "Monaco",
+	"font_face": "Monego",
 	"font_size": 12,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
@@ -58,8 +60,8 @@
 		"Vintageous"
 	],
 	"indent_to_bracket": true,
-	"line_padding_bottom": 3,
-	"line_padding_top": 3,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
 	"neovintageous_build_version": 11100,
 	"remember_full_screen": true,
 	"remember_open_files": false,
