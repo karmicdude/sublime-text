@@ -1,0 +1,10 @@
+{
+  "excluded_dir_patterns": [
+    ".tmp",
+    "|.git",
+    "|.svn",
+    "|.venv",
+    "|node_modules",
+    "|__pycache__"
+  ]
+}
