@@ -100,7 +100,7 @@
 	"theme_tab_selected_overlined": true,
 	"theme_tab_separator": true,
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
+	"trim_trailing_white_space_on_save": false,
 	"use_tab_stops": false,
 	"vintage_start_in_command_mode": true,
 	"vintageous_use_ctrl_keys": null,
