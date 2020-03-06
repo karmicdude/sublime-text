@@ -13,6 +13,6 @@
     // SideBar
     { "keys": ["ctrl+,", "o"], "command": "side_bar_open_in_browser"},
     // SublimeQuickFileCreator
-    { "keys": ["ctrl+,", "d"], "command": "quick_create_file" },
-    { "keys": ["ctrl+,", "f"], "command": "quick_create_directory" }
+    { "keys": ["ctrl+,", "f"], "command": "quick_create_file" },
+    { "keys": ["ctrl+,", "d"], "command": "quick_create_directory" }
 ]
