@@ -1,12 +1,17 @@
 // SublimeLinter Settings - User
 {
-	// "debug": true,
+	"debug": true,
 	"linters": {
 		"flake8": {
 		    "args": ["--max-line-length=99"]
 		},
         "csslint": {
-            "args": ["--ignore=order-alphabetical"]
+            "args": [
+                "--ignore=box-sizing,order-alphabetical"
+            ]
+        },
+        "dockerfilelint": {
+            "selector": "source.dockerfile"
         },
 	},
 }
