@@ -13,5 +13,10 @@
         "dockerfilelint": {
             "selector": "source.dockerfile"
         },
+        "markdownlint": {
+            "args": [
+                "-c ~/.config/sublime-text-3/Packages/User/Markdownlint-settings.yaml"
+            ]
+        }
 	},
 }
